@@ -40,6 +40,8 @@
             android:background="#FFFFFF"
             android:padding="12dp"
             android:textSize="16sp"
+            android:textColor="#000000"
+            android:textColorHint="#9E9E9E"
             android:inputType="phone"
             android:layout_marginBottom="18dp" />
 
@@ -60,6 +62,8 @@
             android:background="#FFFFFF"
             android:padding="12dp"
             android:textSize="16sp"
+            android:textColor="#000000"
+            android:textColorHint="#9E9E9E"
             android:inputType="number"
             android:layout_marginBottom="18dp" />
 
@@ -80,6 +84,8 @@
             android:background="#FFFFFF"
             android:padding="12dp"
             android:textSize="16sp"
+            android:textColor="#000000"
+            android:textColorHint="#9E9E9E"
             android:inputType="number"
             android:layout_marginBottom="24dp" />
 
